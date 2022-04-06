@@ -1,4 +1,4 @@
-# Detect-Person-Class-from-img-Collage-project-.
+# Detect-Person-Class-from-imges-CroppedYale-Faces.
 
 We used CNN and MLP to show the difference between the accuracy and loss of the model:
  -First time without augmentation
